@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.contaazul.mars.service.RobotRotationTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec - in com.contaazul.mars.service.RobotRotationTest
